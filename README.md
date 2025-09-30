@@ -66,7 +66,7 @@ We observe small batch sizes perform better. Choose the task using "task" argume
 ---
 
 ### Acknowledgment  
-This project builds upon the [MAE repository](https://github.com/facebookresearch/mae) from the paper *Masked Autoencoders Are Scalable Vision Learners*.
+This project builds upon the [MAE repository](https://github.com/facebookresearch/mae) from the paper [*Masked Autoencoders Are Scalable Vision Learners*](https://arxiv.org/abs/2111.06377).
 
 
 ## BibTeX
